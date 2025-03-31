@@ -1,0 +1,13 @@
+h2{
+color:rgb(44, 60, 140);
+}
+body{ 
+    background-color: brown;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    border-bottom: 1px solid white}
+
+footer{
+    border-top: 1px solid white

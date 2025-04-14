@@ -11,3 +11,13 @@ header{
 
 footer{
     border-top: 1px solid white
+}
+#nome-usuario{
+    font-weight: bold;
+}
+.texto-ingles{
+    
+    font-style:italic;
+}
+
+  
